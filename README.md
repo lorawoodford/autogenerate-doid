@@ -3,6 +3,7 @@
 This plugin auto-generates an identifier for Digital Objects created in staff mode (frontend).
 
 This version of the plugin is known to work in ArchivesSpace version 1.5.4.
+
 ---
 
 ## Activate the plugin
